@@ -1,2 +1,2 @@
-# 06-Python-APIs
-Rice University- Python-API-Challenge
+# python-api-challenge
+API homework
